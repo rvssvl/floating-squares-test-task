@@ -42,3 +42,9 @@ In the project directory, you can run:
 ## Testing
 
 This project includes unit tests for components and Redux logic. Run tests with:
+
+
+https://github.com/user-attachments/assets/5d3ecd60-7ee3-47fe-8b1d-9acc0678b4a1
+
+
+
